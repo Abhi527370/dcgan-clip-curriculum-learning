@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
+dcgan_clip_env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyTorch checkpoints
+*.pth
+*.pt
+
+# Generated outputs
+checkpoints/
+
+
+# Dataset
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+curriculum_bins_clip.pt

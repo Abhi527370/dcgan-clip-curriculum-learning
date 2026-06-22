@@ -1,0 +1,16 @@
+torch
+torchvision
+torchaudio
+open_clip_torch
+torchmetrics[image]
+torch-fidelity
+numpy
+scipy
+pandas
+matplotlib
+pillow
+tqdm
+tensorboard
+
+jupyter
+ipykernel
